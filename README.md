@@ -3,9 +3,9 @@
 
 ## 1. prerequisites
 
-You need to have .NET 7.0 SDK installed on your system.
+You need to have .NET 8.0 SDK installed on your system.
 
-**Note:** When running the server or tests, you may see warnings about .NET 7.0 being out of support. The warnings do not affect functionality - the API works perfectly and all tests pass successfully. 
+ 
 
 
 ## 2. Run The Server
