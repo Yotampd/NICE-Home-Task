@@ -36,7 +36,7 @@ Additionally, I implemented extended keyword matching:
 The matching is case-insensitive.
 
 **Additional Features Implemented:**
-- logging for all requests and responses(printed)
+- Logging for all requests and responses(printed)
 - Retry mechanism
 
 ## 4. Run Tests
